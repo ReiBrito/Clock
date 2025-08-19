@@ -10,7 +10,7 @@ Este é um projeto de um relógio analógico simples feito em HTML, CSS e Javasc
 4. 
 ## 🖼️ Demonstração
 
-👉 [https://reibrito.github.io/Clock/]
+👉 https://reibrito.github.io/Clock/
 
 ![Clock](img/print.png)
 
