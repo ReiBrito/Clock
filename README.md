@@ -7,6 +7,12 @@ Este é um projeto de um relógio analógico simples feito em HTML, CSS e Javasc
 1. Faça o download ou clone o repositório para o seu computador.
 2. Abra o arquivo `index.html` no seu navegador.
 3. O relógio analógico será exibido na página e atualizará a cada segundo.
+4. 
+## 🖼️ Demonstração
+
+👉 https://ReiBrito.github.io/Clock/
+
+![Clock](img/print.png)
 
 ## Tecnologias utilizadas
 
