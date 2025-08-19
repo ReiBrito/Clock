@@ -12,7 +12,13 @@ Este é um projeto de um relógio analógico simples feito em HTML, CSS e Javasc
 
 👉 https://reibrito.github.io/Clock/
 
-![Clock](img/print.png)
+* Modo Claro
+  
+![Clock](img/clock-claro.png)
+
+* Modo Escuro
+  
+![Clock](img/clock-escuro.png)
 
 ## Tecnologias utilizadas
 
